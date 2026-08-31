@@ -1,4 +1,4 @@
-def find_positive_number(n,arr):
+def count_positive_number(n,arr):
   count = 0
   for i in range(n):
     if arr[i]>0:
